@@ -1,8 +1,9 @@
+//A ESTE ARCHIVO ES QUE SE LE ENVIA TODO LO QUE QUIERO RENDERIZAR EN EL DOM
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import Router from './Router'
-
+import './axios';
 import NavBar from './components/app/NavBar.jsx'
 
 import reportWebVitals from './reportWebVitals';
